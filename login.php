@@ -31,7 +31,7 @@ if (!isset($_SESSION['log'])) {
     <meta name="description" content="" />
     <meta name="author" content="" />
     <title>Login</title>
-    <link href="web_inventaris/CSS/styles.css" rel="stylesheet" />
+    <link href="web_inventaris/css/styles.css" rel="stylesheet" />
     <script src="web_inventaris/js/scripts.js" crossorigin="anonymous"></script>
     <style>
         body {
